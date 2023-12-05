@@ -38,7 +38,7 @@ Clone the project from our Github repo: [havn't existed yet ;(]()
 
 
 For more information, see: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
-## 🤔 Q&A
+## 🤔 git add Q&A
 Q: Do we can obtain all the information on the ingredient list?
 A: It might miss some unusual ingredient.
 
